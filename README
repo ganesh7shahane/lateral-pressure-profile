@@ -1,3 +1,5 @@
 The equalise.py is to centre the profile
 
+lp.py caluclates the lateral pressure profile
+
 ganesh_sc.py is to extract spontaneous curvature and bending rigidity modulus from the input lateral pressure
